@@ -1,0 +1,4 @@
+#Tue Oct 20 15:17:19 MYT 2020
+base.0=/Users/a00139989/Documents/SectionContactList/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
